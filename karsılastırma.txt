@@ -1,0 +1,128 @@
+Belgede belirtilen adres ve tarih bilgileri:
+
+**Adres Bilgisi:**
+- İkitelli Org.san.mah.İytelkonpark Ap.a.no:1/204-206 Başakşehir / İSTANBUL
+
+**Tarih Bilgisi:**
+- Tarih: 23/05/2017
+
+ Belgedeki imzalar ve sahipleri:
+
+1. **Hasan Çetin**
+   - İmza yeri: Belgenin ana metninde “DEHA ELEKTRONİK TURİZM VE İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ ADINA TEMSİLEN HASAN ÇETİN” ifadesi ile belirtilmiştir.
+
+2. **Sibel Yalçın**
+   - İmza yeri: Belgenin alt kısmında "BAKIRKÖY 46. NOTERİ Sibel YALÇIN" ifadesinin altında yer almaktadır.
+   - Pozisyon: Noter
+
+3. **Emine Ayküre Naldemirci**
+   - İmza yeri: “Noter Vekili Katibi” ifadesi ile belirtilmiştir, Sibel Yalçın'ın altındaki imzada bulunur.
+   - Pozisyon: Noter Vekili Katibi
+
+**Genel açıklama:**
+
+- **Hasan Çetin**: Deha Elektronik Turizm ve İnşaat Sanayi ve Ticaret Limited Şirketi adına imza atan yetkili kişidir. İmza sirkülerine göre, şirket adına imza yetkisini kullanmaktadır.
+
+- **Sibel Yalçın**: Belgenin noter onayını yapan kişidir. Noterin resmi onayını temsil eden hali noter olduğudur.
+
+- **Emine Ayküre Naldemirci**: Noter vekili katibi olarak noter onayını destekleyen ve noter adına işlemleri yürüten kişidir.
+
+Bu bilgiler ve roller, belgede belirtilen imzaların sahipleri ve pozisyonlarına ilişkin açıklamalardır.
+Belgede görülen adres ve tarih bilgileri aşağıdaki gibidir:
+
+- **Adres Bilgisi:** İstanbul İli Küçükçekmece İlçesi Atakent Mahallesi 234. Sokak No 10/41 (belgede Hasan ÇETİN'in adresi olarak geçmektedir).        
+- **Tarih Bilgisi:** 17 Mayıs 2017, ayrıca karar tarihi olarak 08/05/2017 geçmektedir.
+
+Belgedeki imzalar ve imza sahipleri ile ilgili bilgiler aşağıdaki gibidir:
+
+1. **Hasan ÇETİN**
+   - İmza altında: İsim: Hasan ÇETİN
+   - Pozisyonu: Şirket Ortağı ve Müdür
+
+2. **Muharrem ERDOĞAN**
+   - İmza altında: İsim: Muharrem ERDOĞAN
+   - Pozisyonu: Şirket Hissedarı
+
+**Özetle;**
+- **Hasan ÇETİN:** Şirket ortağı ve müdür olarak belgedeki süreçleri yöneten kişidir.
+- **Muharrem ERDOĞAN:** Şirket hissedarı olarak belgede hisse devri işlemlerinin taraflarından biridir.
+Belgede görülen adres bilgisi ve tarih bilgisi aşağıdaki gibidir:
+
+**Adres Bilgisi:**
+- İstanbul Başakşehir KİTELLİ ORG.SAN.MAH.YTÜ. TEKNOPARK AP.NO.1/204-206
+
+**Tarih Bilgisi:**
+- 17.5.2017 (Bakırköy 37. noteri belgesi tarihi)
+- 22.5.2017 (belgenin tescil tarihi)
+
+Belgedeki e-imzalar ve sahipleri aşağıdaki gibidir:
+   - Pozisyon: İstanbul Ticaret Sicil Müdür Yardımcısı
+   - İmza Metni: E-İMZALIDIR Duygu Sayıner İstanbul Ticaret Sicil Müdür Yardımcısı
+
+2. **Barış Bilir**
+   - Pozisyon: Belirtilmemiş (Ancak sadece "Barış Bilir" olarak geçmektedir)
+   - İmza Metni: Belgenin aslı elektronik imzalıdır. Barış Bilir
+
+Bu nedenle, belge üzerindeki roller ve pozisyonlar aşağıdaki gibi belirlenmiştir:
+
+- **Duygu Sayıner**: İstanbul Ticaret Sicil Müdür Yardımcısı
+- **Barış Bilir**: Belgenin aslı elektronik imza ile imzalandığını belirten kişi, rolü doğrudan belirtilmemiştir ancak güvenlik veya yasal onay sorumluluğuna sahip olabilir.     
+
+-------------------------------------------------------------------------
+
+llama3
+
+Belgedeki her bir imzanın sahibi, rolü, tarih ve adres bilgisi hakkında genel bilgi:
+Sayfa 0: Tarih: 22.5.2017
+
+Adres: Istanbul Ticaret Sicili Müdürlüğü
+
+Sahibi ve Rolü:
+
+* Duygu Sayiner: Müdürlüğümüzdeki Yardımcısı
+* Barış Biler: Güvenli Elektronik İmza sahibi
+
+Not: Belgenin aslı elektronik imzalıdır.
+Sayfa 1: Tarih: 17 Mayıs 2017
+Adres: DEHA ELEKTRONİK TURİZM VE İNŞAAT SANAYİ VE TİCARET LTD. ŞTİ.
+
+**Rol dağılımı:**
+
+1. Hasan ÇETİN:
+        * Şirket ortağı (25237691746 T.C. Kimlik numarası)
+        * Şirket müdürlüğüne seçildi
+        * İmza sahibi
+2. Muharrem ERDOĞAN:
+        * Şirket ortağı (31133906964 T.C. Kimlik numarası)
+        * Şirket müdürlüğünden istifa etti ve ayrıldı
+        * İmza sahibi
+
+**Tarihler:**
+
+1. Karar tarihi: 08/05/2017 (08 Mayıs 2017)
+2. Toplantıya katılanlar: Hasan ÇETİN, Muharrem ERDOĞAN
+3. Karar no: 2017/04
+Sayfa 2: **Tarih ve Adres Belirleme**
+
+* Tarih: 23/05/2017
+* Adres: İkitelli Org.san.mah.ytü.teknopark Ap.no.1/204-206 Başakşehir/, İstanbul
+
+**İmzanın Sahibi ve Rolü**
+
+* Hasan ÇETİN (25237691746): Yetkili, DEHA ELEKTRONİK TURİZM VE İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ adına hareket eden kişi.
+
+**Noterlik Onaylama**
+
+* Bakırköy 37. Noterliğince onaylı: 17 Mayıs 2017 tarih ve 16624 yevmiye sayı ile onaylı
+* Noter: Sibel YALÇIN, Noter Vekili Katibi: Emine AYKÜREK NALDEMİRCİ
+
+**Temsil Şekli ve Süresi**
+
+* Temsil Şekli: Münferidi
+* Süresi: 08/05/2017 tarihinden itibaren
+
+**Vergi Dairesi ve Sicil No**
+
+* Vergi Dairesi: 034249, İkitelli - 2730088990
+* Ticaret Sicil Adı: İstanbul - 380926
+
